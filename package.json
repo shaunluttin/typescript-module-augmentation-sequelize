@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/sequelize": "^4.27.30",
+    "@types/sequelize": "github:types/sequelize#c628e47acd0cb073b69d06b38ff3fd3ce3f47dbc",
     "typescript": "^3.1.6"
   },
   "dependencies": {
-    "sequelize": "^4.41.2"
+    "sequelize": "^5.0.0-beta.14"
   }
 }
